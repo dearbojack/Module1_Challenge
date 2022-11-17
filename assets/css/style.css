@@ -59,15 +59,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* left section part */
 
 section {
     width: 75%;
@@ -84,50 +76,24 @@ section {
     color: #ffffff;
 }
 
-/* .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
-
 .subsection img {
     max-height: 200px;
 }
 
-/* .online-reputation-management img {
-    max-height: 200px;
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
-} */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 .subsection h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 /* aside part */
 
