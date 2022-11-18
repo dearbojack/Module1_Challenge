@@ -45,4 +45,6 @@ Satisfies all of the above acceptance criteria plus the following code improveme
 
 Link to the deployed webpage: [https://dearbojack.github.io/Module1_Challenge/](https://dearbojack.github.io/Module1_Challenge/)
 
-Screenshot of the final look: ![](./assets/images/screenshot.png | width=200)
+Screenshot of the final look: 
+
+<img alt="screenshot of the webpage" src="./assets/images/screenshot.png" width=200px>
