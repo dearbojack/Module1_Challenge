@@ -43,4 +43,6 @@ Satisfies all of the above acceptance criteria plus the following code improveme
 
 ## Deployed Application
 
-Link to the deployed webpage: 
+Link to the deployed webpage: [https://dearbojack.github.io/Module1_Challenge/](https://dearbojack.github.io/Module1_Challenge/)
+
+Screenshot of the final look: ![](./assets/images/screenshot.png | width=200)
